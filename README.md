@@ -1,5 +1,5 @@
 ![MasterHead](https://drive.google.com/uc?export=view&id=1sk9Y7-qUjkGDq9IU_kNpsG6gu1-oWPUn)
-<h1 align="center">Hi 👋, I'm Dinuk Pathiraja</h1>
+<h1 align="center">Hi 👋, I'm Chanuli Pathiraja</h1>
 <h3 align="center">Computer Engineering Undergraduate</h3>
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1DneADucp3rIBVMww37MXVptdIR0qfsPN">
 
