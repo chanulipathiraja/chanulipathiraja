@@ -1,6 +1,6 @@
 ![MasterHead](https://drive.google.com/uc?export=view&id=1sk9Y7-qUjkGDq9IU_kNpsG6gu1-oWPUn)
 <h1 align="center">Hi 👋, I'm Chanuli Pathiraja</h1>
-<h3 align="center">Computer Engineering Undergraduate</h3>
+<h3 align="center">Information Communication Technology Undergraduate</h3>
 <img align="right" alt="Coding" width="400" src="https://drive.google.com/uc?export=view&id=1DneADucp3rIBVMww37MXVptdIR0qfsPN">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pathiraja-d&label=Profile%20views&color=0e75b6&style=flat" alt="pathiraja-d" /> </p>
