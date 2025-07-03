@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Flutter,ML,MERN**
 
-- 💬 Ask me about **.NET,C++,React,C#**
+- 💬 Ask me about **C,React,C#,Python,JavaScript**
 
 - 📫 How to reach me **pathirajadnew@gmail.com**
 
