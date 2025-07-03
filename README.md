@@ -9,16 +9,15 @@
 
 - 💬 Ask me about **C,React,C#,Python,JavaScript**
 
-- 📫 How to reach me **pathirajadnew@gmail.com**
+- 📫 How to reach me **chanulikcc@gmail.com**
 
 - ⚡ Fun fact **I think I am too much friendly**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/dinukpathiraja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dinukpathiraja" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/chanulipathiraja" target="blank"><img align="center" src="https://www.linkedin.com/in/chanuli-pathiraja-89a0b8324?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" alt="chanulipathiraja" height="30" width="40" /></a>
 <a href="https://www.facebook.com/dinuk.pathiraja.7?mibextid=ZbWKwL" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dinuk pathiraja" height="30" width="40" /></a>
-<a href="https://instagram.com/d_i_n_u_k_?igshid=NGVhN2U2NjQ0Yg==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dinuk pathiraja" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/pathirajadnew" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@dinukpkcc" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
